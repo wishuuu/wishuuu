@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on: Chat Application (like Messenger)<br>
+- 🔭 I’m currently working on: Couch Poker Game ♥♠<br>
 - 🌱 I’m currently learning: React Native <br>
 - 👯 I’m looking to collaborate on: anything interesting, just ask<br>
 - 📫 How to reach me: kontakt.wiszowaty.o@gmail.com<br>
