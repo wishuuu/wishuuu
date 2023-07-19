@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on: Web chat application using Svelte<br>
-- 🌱 I’m currently learning: Svelte <br>
+- 🔭 I’m currently working on: Basic CRM system with .NET Core and React<br>
+- 🌱 I’m currently learning: PostgreSQL <br>
 - 👯 I’m looking to collaborate on: anything interesting, just ask<br>
 - 📫 How to reach me: kontakt.wiszowaty.o@gmail.com<br>
 - 🙌 My hobbies: 👨‍💻 coding, 💪 gym, 🎮 video games
