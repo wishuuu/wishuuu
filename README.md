@@ -6,8 +6,10 @@
 - 🙌 My hobbies: 👨‍💻 coding, 💪 gym, 🎮 video games
 
 
-## 🌐 Socials:
+## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oskar-wiszowaty-009908174) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=linkedin&logoColor=white)](mailto:kontakt.wiszowaty.o@gmail.com) 
+
 
 # 💻 Tech Stack:
 Main stack: 🥇 <br/>
